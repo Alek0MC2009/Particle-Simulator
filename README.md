@@ -16,7 +16,13 @@ If you want to build the project from source code:
 
 ---
 
-This assumes you have installed raylib on Windows in the `C:\` folder using MinGW (which comes preinstalled with raylib).
+This assumes you have installed raylib on Windows in the `C:\` folder using **MinGW**, which is the compiler (MinGW comes preinstalled with raylib).
+
+---
+
+**Note:**  
+The source code is commented in Spanish.  
+This project was created with the help of AI out of boredom.
 
 ---
 
@@ -34,7 +40,13 @@ Si quieres compilar el proyecto desde el código fuente:
 
 ---
 
-Esto asume que has instalado raylib en Windows en la carpeta `C:\` usando MinGW (que viene preinstalado con raylib).
+Esto asume que has instalado raylib en Windows en la carpeta `C:\` usando **MinGW**, que es el compilador (MinGW viene preinstalado con raylib).
+
+---
+
+**Nota:**  
+El código fuente está comentado en español.  
+Este proyecto fue creado con ayuda de IA por aburrimiento.
 
 ---
 
@@ -52,4 +64,10 @@ Si vous souhaitez compiler le projet à partir du code source :
 
 ---
 
-Cela suppose que vous avez installé raylib sur Windows dans le dossier `C:\` en utilisant MinGW (qui est préinstallé avec raylib).
+Cela suppose que vous avez installé raylib sur Windows dans le dossier `C:\` en utilisant **MinGW**, qui est le compilateur (MinGW est préinstallé avec raylib).
+
+---
+
+**Note :**  
+Le code source est commenté en espagnol.  
+Ce projet a été créé avec l’aide d’une IA par ennui.
